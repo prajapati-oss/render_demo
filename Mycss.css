@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding : 0;
+    box-sizing :border-box;  /* Fixed the typo */
+
+}
+.bg-dark {
+    background-color: #757875;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
